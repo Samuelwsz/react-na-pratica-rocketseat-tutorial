@@ -36,3 +36,5 @@ export default {
 ```
 npm i @tanstack/react-query
 ```
+
+### [Converter algum dado para Typescript](https://transform.tools/)

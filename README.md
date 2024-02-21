@@ -31,6 +31,8 @@ export default {
 
 ##### ----------------
 
+https://github.com/rocketseat-education/react-na-pratica-01/tree/main
+
 ### React query
 
 ```
@@ -38,3 +40,11 @@ npm i @tanstack/react-query
 ```
 
 ### [Converter algum dado para Typescript](https://transform.tools/)
+
+### [Componente Dialog do radix](https://www.radix-ui.com/primitives/docs/components/dialog)
+
+### react-hook-form e zod
+
+```
+npm i react-hook-form zod @hookform/resolvers
+```
